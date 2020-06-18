@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/morse--translator/static/css/main.b6dd2662.chunk.css",
+    "main.js": "/morse--translator/static/js/main.0a142102.chunk.js",
+    "main.js.map": "/morse--translator/static/js/main.0a142102.chunk.js.map",
+    "runtime-main.js": "/morse--translator/static/js/runtime-main.9af4ca3e.js",
+    "runtime-main.js.map": "/morse--translator/static/js/runtime-main.9af4ca3e.js.map",
+    "static/js/2.2e129da0.chunk.js": "/morse--translator/static/js/2.2e129da0.chunk.js",
+    "static/js/2.2e129da0.chunk.js.map": "/morse--translator/static/js/2.2e129da0.chunk.js.map",
+    "index.html": "/morse--translator/index.html",
+    "precache-manifest.51ee0fbc92d01c4d7d21a236833f05cc.js": "/morse--translator/precache-manifest.51ee0fbc92d01c4d7d21a236833f05cc.js",
+    "service-worker.js": "/morse--translator/service-worker.js",
+    "static/css/main.b6dd2662.chunk.css.map": "/morse--translator/static/css/main.b6dd2662.chunk.css.map",
+    "static/js/2.2e129da0.chunk.js.LICENSE.txt": "/morse--translator/static/js/2.2e129da0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9af4ca3e.js",
+    "static/js/2.2e129da0.chunk.js",
+    "static/css/main.b6dd2662.chunk.css",
+    "static/js/main.0a142102.chunk.js"
+  ]
+}
